@@ -1,5 +1,5 @@
 # Xplain-Meta-Primers
-Governing framework for interpretable AI. Xplain Meta-Primer, primers, and romers, including enriched documentation (Markdown + Word/PDF), changelogs, and reviewer feedback. The Meta-Primer defines how primers are built, validated, and audited, ensuring structured trust and reducing variance in expert interpretation of AI outputs.
+Governing framework for interpretable AI. Xplain Meta-Primer, primers, romers and AI direction statements, including enriched documentation (Markdown + Word/PDF), changelogs, and reviewer feedback. The Meta-Primer defines how primers are built, validated, and audited, ensuring structured trust and reducing variance in expert interpretation of AI outputs.
 
 ## Overview
 The **Xplain Meta-Primer** is the constitutional framework for interpretable AI.  
@@ -11,7 +11,8 @@ The Xplain Meta-Primer framework is the subject of a provisional patent applicat
 **Purpose**:  
 - Address the **variance problem** — skilled experts interpreting identical AI outputs differently.  
 - Build **structured trust** through transparent, reproducible frameworks.  
-- Provide a foundation for adoption, scaling, and eventual standardization (ISO/IEEE alignment).  
+- Provide a foundation for adoption, scaling, and eventual standardization (ISO/IEEE alignment).
+- Using 'Side Knowledge' to utilise AI 'out of the box'.
 
 ---
 
