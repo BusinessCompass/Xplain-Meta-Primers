@@ -3,7 +3,10 @@ Governing framework for interpretable AI. Xplain Meta-Primer, primers, and romer
 
 ## Overview
 The **Xplain Meta-Primer** is the constitutional framework for interpretable AI.  
-It defines how **Primers** (domain-specific interpretive guides) and **Romers** (AI’s derived interpretive compasses) are constructed, validated, and audited.  
+It defines how **Primers** (domain-specific interpretive guides) and **Romers** (AI’s derived interpretive compasses) are constructed, validated, and audited.
+
+##⚠️ Notice on Patent Status
+The Xplain Meta-Primer framework is the subject of a provisional patent application filed with the United States Patent and Trademark Office (USPTO).
 
 **Purpose**:  
 - Address the **variance problem** — skilled experts interpreting identical AI outputs differently.  
@@ -47,8 +50,7 @@ It defines how **Primers** (domain-specific interpretive guides) and **Romers** 
 
 ---
 
-## License
-GPL 3 Public  
+This repository is made publicly available for research, review, and testing purposes. Use is encouraged under the terms of the GNU General Public License v3.0. Any commercial use or derivative works should acknowledge the provisional patent status.
 
 ---
 
