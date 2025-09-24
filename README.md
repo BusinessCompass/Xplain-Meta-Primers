@@ -12,7 +12,7 @@ The Xplain Meta-Primer framework is the subject of a provisional patent applicat
 - Address the **variance problem** — skilled experts interpreting identical AI outputs differently.  
 - Build **structured trust** through transparent, reproducible frameworks.  
 - Provide a foundation for adoption, scaling, and eventual standardization (ISO/IEEE alignment).
-- Using 'Side Knowledge' to utilise AI 'out of the box'.
+- Apply 'Side Knowledge' to utilise AI 'out of the box'.
 
 ---
 
